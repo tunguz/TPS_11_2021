@@ -1,0 +1,1201 @@
+A new study created in RDB with name: lr_optuna_300
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 0 finished with value: 0.7506636738521558 and parameters: {'C': 0.8982162011099182}. Best is trial 0 with value: 0.7506636738521558.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 1 finished with value: 0.7506636941343063 and parameters: {'C': 0.7691515437425541}. Best is trial 0 with value: 0.7506636738521558.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 2 finished with value: 0.7506636807980978 and parameters: {'C': 0.6753188579177721}. Best is trial 0 with value: 0.7506636738521558.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 3 finished with value: 0.7506636941343063 and parameters: {'C': 0.7537819817735743}. Best is trial 0 with value: 0.7506636738521558.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 4 finished with value: 0.7506636732964804 and parameters: {'C': 0.9994775968212444}. Best is trial 4 with value: 0.7506636732964804.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 5 finished with value: 0.750663671907292 and parameters: {'C': 0.5772009048659249}. Best is trial 5 with value: 0.750663671907292.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 6 finished with value: 0.7506636905224165 and parameters: {'C': 0.7919138695660028}. Best is trial 5 with value: 0.750663671907292.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 7 finished with value: 0.750663671073779 and parameters: {'C': 0.4003477958842995}. Best is trial 7 with value: 0.750663671073779.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 8 finished with value: 0.7506636949678194 and parameters: {'C': 0.7659741654174326}. Best is trial 7 with value: 0.750663671073779.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 9 finished with value: 0.7506636735743181 and parameters: {'C': 0.6621651666506746}. Best is trial 7 with value: 0.750663671073779.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 10 finished with value: 0.7506636958013324 and parameters: {'C': 0.2916097314196312}. Best is trial 7 with value: 0.750663671073779.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 11 finished with value: 0.7506636732964804 and parameters: {'C': 0.39663802329715014}. Best is trial 7 with value: 0.750663671073779.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 12 finished with value: 0.7506639908649483 and parameters: {'C': 0.09050763733123296}. Best is trial 7 with value: 0.750663671073779.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 13 finished with value: 0.7506636674618892 and parameters: {'C': 0.5221187142188743}. Best is trial 13 with value: 0.7506636674618892.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 14 finished with value: 0.7506636838543123 and parameters: {'C': 0.4146865865898786}. Best is trial 13 with value: 0.7506636674618892.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 15 finished with value: 0.7506638399990883 and parameters: {'C': 0.20154899344583754}. Best is trial 13 with value: 0.7506636674618892.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 16 finished with value: 0.7506636660727007 and parameters: {'C': 0.4965489732041505}. Best is trial 16 with value: 0.7506636660727007.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 17 finished with value: 0.7506636763526949 and parameters: {'C': 0.5504569343267228}. Best is trial 16 with value: 0.7506636660727007.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 18 finished with value: 0.7506636610716225 and parameters: {'C': 0.48657658717729096}. Best is trial 18 with value: 0.7506636610716225.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 19 finished with value: 0.7506637260856396 and parameters: {'C': 0.2685551931491341}. Best is trial 18 with value: 0.7506636610716225.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 20 finished with value: 0.7506651488923971 and parameters: {'C': 0.022004028775037987}. Best is trial 18 with value: 0.7506636610716225.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 21 finished with value: 0.7506636666283761 and parameters: {'C': 0.4990278440524959}. Best is trial 18 with value: 0.7506636610716225.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 22 finished with value: 0.7506636688510775 and parameters: {'C': 0.466042936671957}. Best is trial 18 with value: 0.7506636610716225.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 23 finished with value: 0.7506636619051356 and parameters: {'C': 0.6066438125200171}. Best is trial 18 with value: 0.7506636610716225.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 24 finished with value: 0.750663663294324 and parameters: {'C': 0.620146387854549}. Best is trial 18 with value: 0.7506636610716225.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 25 finished with value: 0.750663663294324 and parameters: {'C': 0.6236387814899338}. Best is trial 18 with value: 0.7506636610716225.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 26 finished with value: 0.750663662460811 and parameters: {'C': 0.63467369520223}. Best is trial 18 with value: 0.7506636610716225.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 27 finished with value: 0.7506636807980978 and parameters: {'C': 0.3251092054423748}. Best is trial 18 with value: 0.7506636610716225.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 28 finished with value: 0.7506636782975586 and parameters: {'C': 0.8667025423927393}. Best is trial 18 with value: 0.7506636610716225.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 29 finished with value: 0.7506636891332281 and parameters: {'C': 0.699522741300469}. Best is trial 18 with value: 0.7506636610716225.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 30 finished with value: 0.750663671907292 and parameters: {'C': 0.894839281339767}. Best is trial 18 with value: 0.7506636610716225.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 31 finished with value: 0.7506636630164862 and parameters: {'C': 0.608336404000343}. Best is trial 18 with value: 0.7506636610716225.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 32 finished with value: 0.7506636613494602 and parameters: {'C': 0.5992977317241418}. Best is trial 18 with value: 0.7506636610716225.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 33 finished with value: 0.7506636869105268 and parameters: {'C': 0.7101987363810668}. Best is trial 18 with value: 0.7506636610716225.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 34 finished with value: 0.7506636841321499 and parameters: {'C': 0.8217961473753868}. Best is trial 18 with value: 0.7506636610716225.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 35 finished with value: 0.7506636594045965 and parameters: {'C': 0.4488757840376777}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 36 finished with value: 0.7506636755191819 and parameters: {'C': 0.43612387693988897}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 37 finished with value: 0.7506636755191819 and parameters: {'C': 0.364330573917147}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 38 finished with value: 0.7506636777418833 and parameters: {'C': 0.5631174555948083}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 39 finished with value: 0.7506636941343063 and parameters: {'C': 0.7350417405467742}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 40 finished with value: 0.7506638630596156 and parameters: {'C': 0.1780880697326221}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 41 finished with value: 0.7506636638499993 and parameters: {'C': 0.6446334250843906}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 42 finished with value: 0.7506636699624283 and parameters: {'C': 0.58124512990628}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 43 finished with value: 0.7506636666283761 and parameters: {'C': 0.47318604449787705}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 44 finished with value: 0.7506636735743181 and parameters: {'C': 0.6730426396539985}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 45 finished with value: 0.7506636763526949 and parameters: {'C': 0.5420454705078969}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 46 finished with value: 0.7506636799645847 and parameters: {'C': 0.37572561316645436}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 47 finished with value: 0.7506636669062138 and parameters: {'C': 0.4441661845475866}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 48 finished with value: 0.7506636916337672 and parameters: {'C': 0.7780276802644335}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 49 finished with value: 0.7506636705181036 and parameters: {'C': 0.5260642605424579}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 50 finished with value: 0.7506636660727007 and parameters: {'C': 0.590225963496593}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 51 finished with value: 0.7506636619051356 and parameters: {'C': 0.6064489824789311}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 52 finished with value: 0.7506636627386486 and parameters: {'C': 0.6442477802324994}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 53 finished with value: 0.7506636821872862 and parameters: {'C': 0.9663293069676162}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 54 finished with value: 0.7506636680175645 and parameters: {'C': 0.4977199154251133}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 55 finished with value: 0.7506636888553905 and parameters: {'C': 0.6955028862988484}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 56 finished with value: 0.7506636869105268 and parameters: {'C': 0.7386285401673861}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 57 finished with value: 0.7506636769083702 and parameters: {'C': 0.5627722504101302}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 58 finished with value: 0.7506636669062138 and parameters: {'C': 0.5220415386761859}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 59 finished with value: 0.7506636674618892 and parameters: {'C': 0.4747424820030899}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 60 finished with value: 0.7506636607937848 and parameters: {'C': 0.6069048778289265}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 61 finished with value: 0.750663663294324 and parameters: {'C': 0.6035242423424317}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 62 finished with value: 0.7506636738521558 and parameters: {'C': 0.6677414525243421}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 63 finished with value: 0.7506636627386486 and parameters: {'C': 0.6229630911780152}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 64 finished with value: 0.7506636763526949 and parameters: {'C': 0.426089819380439}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 65 finished with value: 0.7506636824651238 and parameters: {'C': 0.8139445789611804}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 66 finished with value: 0.7506636741299935 and parameters: {'C': 0.5393374564352643}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 67 finished with value: 0.7506636707959413 and parameters: {'C': 0.6534324046924822}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 68 finished with value: 0.7506636721851296 and parameters: {'C': 0.5774041589333228}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 69 finished with value: 0.7506636702402659 and parameters: {'C': 0.3125949145920942}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 70 finished with value: 0.750663685799176 and parameters: {'C': 0.7204347032129521}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 71 finished with value: 0.7506636630164862 and parameters: {'C': 0.6360731107622718}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 72 finished with value: 0.750663663294324 and parameters: {'C': 0.5963090763007858}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 73 finished with value: 0.7506636846878253 and parameters: {'C': 0.6860784441890374}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 74 finished with value: 0.7506636644056747 and parameters: {'C': 0.6239619239020726}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 75 finished with value: 0.7506636766305326 and parameters: {'C': 0.5137691550225115}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 76 finished with value: 0.7506636713516166 and parameters: {'C': 0.46477868513799947}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 77 finished with value: 0.7506636785753963 and parameters: {'C': 0.5570155977090994}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 78 finished with value: 0.7506636899667412 and parameters: {'C': 0.38128198528692536}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 79 finished with value: 0.7506636674618892 and parameters: {'C': 0.6487640882495487}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 80 finished with value: 0.7506636630164862 and parameters: {'C': 0.6083004510400577}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 81 finished with value: 0.7506636816316108 and parameters: {'C': 0.6757570769495451}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 82 finished with value: 0.7506636646835123 and parameters: {'C': 0.6322383564750756}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 83 finished with value: 0.7506636713516166 and parameters: {'C': 0.5690111021601213}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 84 finished with value: 0.7506636952456571 and parameters: {'C': 0.7624800471574114}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 85 finished with value: 0.7506636646835123 and parameters: {'C': 0.49620155470268823}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 86 finished with value: 0.7506636888553905 and parameters: {'C': 0.7121656269768588}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 87 finished with value: 0.7506636752413441 and parameters: {'C': 0.5380425657551323}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 88 finished with value: 0.7506636602381095 and parameters: {'C': 0.4486977367689249}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 89 finished with value: 0.7506636805202601 and parameters: {'C': 0.4068073697189076}. Best is trial 35 with value: 0.7506636594045965.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 90 finished with value: 0.750663656348382 and parameters: {'C': 0.4495701613476097}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 91 finished with value: 0.7506636738521558 and parameters: {'C': 0.44157560539142665}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 92 finished with value: 0.7506636663505384 and parameters: {'C': 0.4593816174273667}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 93 finished with value: 0.7506636846878253 and parameters: {'C': 0.3562409256719561}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 94 finished with value: 0.7506636619051356 and parameters: {'C': 0.4824564245462742}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 95 finished with value: 0.7506636685732399 and parameters: {'C': 0.5110580545544845}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 96 finished with value: 0.7506636619051356 and parameters: {'C': 0.47937398009768256}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 97 finished with value: 0.750663678853234 and parameters: {'C': 0.3352004613849106}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 98 finished with value: 0.7506636627386486 and parameters: {'C': 0.48782685997351877}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 99 finished with value: 0.7506636744078311 and parameters: {'C': 0.43152987415411737}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 100 finished with value: 0.7506636713516166 and parameters: {'C': 0.40051072928622866}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 101 finished with value: 0.750663671073779 and parameters: {'C': 0.4631279211042516}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 102 finished with value: 0.7506636627386486 and parameters: {'C': 0.48332285980738227}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 103 finished with value: 0.7506636730186427 and parameters: {'C': 0.5296783699273154}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 104 finished with value: 0.7506636827429615 and parameters: {'C': 0.41168518418272704}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 105 finished with value: 0.7506636630164862 and parameters: {'C': 0.5867470410068376}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 106 finished with value: 0.7506636694067529 and parameters: {'C': 0.4434363367640416}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 107 finished with value: 0.7506636782975586 and parameters: {'C': 0.5539979906761654}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 108 finished with value: 0.7506636777418833 and parameters: {'C': 0.5146493961539091}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 109 finished with value: 0.7506636877440398 and parameters: {'C': 0.38525063180753893}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 110 finished with value: 0.750663686632689 and parameters: {'C': 0.35285367747509044}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 111 finished with value: 0.7506636621829732 and parameters: {'C': 0.4806397657139026}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 112 finished with value: 0.7506636616272979 and parameters: {'C': 0.4542038539541142}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 113 finished with value: 0.7506636566262196 and parameters: {'C': 0.45059695666281924}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 114 finished with value: 0.7506636810759354 and parameters: {'C': 0.4191137344320047}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 115 finished with value: 0.7506636585710834 and parameters: {'C': 0.4491057773987086}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 116 finished with value: 0.7506636646835123 and parameters: {'C': 0.4536256701274633}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 117 finished with value: 0.7506636646835123 and parameters: {'C': 0.5020845968791964}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 118 finished with value: 0.7506637355321206 and parameters: {'C': 0.252982198174572}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 119 finished with value: 0.7506636816316108 and parameters: {'C': 0.42371146952301686}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 120 finished with value: 0.7506636849656629 and parameters: {'C': 0.38625979981413494}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 121 finished with value: 0.7506636644056747 and parameters: {'C': 0.45231404489688676}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 122 finished with value: 0.7506636621829732 and parameters: {'C': 0.4800795630610041}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 123 finished with value: 0.7506636757970195 and parameters: {'C': 0.5363784267211469}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 124 finished with value: 0.7506636724629674 and parameters: {'C': 0.43173270217612525}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 125 finished with value: 0.7506636749635065 and parameters: {'C': 0.572572831705914}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 126 finished with value: 0.7506636696845905 and parameters: {'C': 0.49795387722749934}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 127 finished with value: 0.750663671073779 and parameters: {'C': 0.4625823559541668}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 128 finished with value: 0.7506636774640456 and parameters: {'C': 0.5469331386786116}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 129 finished with value: 0.7506636794089093 and parameters: {'C': 0.4041126416240926}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 130 finished with value: 0.7506636616272979 and parameters: {'C': 0.6077899207987038}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 131 finished with value: 0.7506636616272979 and parameters: {'C': 0.6041407150541009}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 132 finished with value: 0.7506636635721616 and parameters: {'C': 0.611975944524504}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 133 finished with value: 0.7506636716294544 and parameters: {'C': 0.5781472931983628}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 134 finished with value: 0.7506636744078311 and parameters: {'C': 0.6684538393191235}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 135 finished with value: 0.7506636602381095 and parameters: {'C': 0.6003006686721416}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 136 finished with value: 0.7506636621829732 and parameters: {'C': 0.6051732136378761}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 137 finished with value: 0.750663671073779 and parameters: {'C': 0.526732547341532}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 138 finished with value: 0.7506636666283761 and parameters: {'C': 0.647463279775401}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 139 finished with value: 0.7506636785753963 and parameters: {'C': 0.5569779204963622}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 140 finished with value: 0.7506636671840514 and parameters: {'C': 0.594099837815782}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 141 finished with value: 0.7506636638499993 and parameters: {'C': 0.6237063312686717}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 142 finished with value: 0.7506636669062138 and parameters: {'C': 0.474185729533109}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 143 finished with value: 0.7506636721851296 and parameters: {'C': 0.44186999779873876}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 144 finished with value: 0.7506636744078311 and parameters: {'C': 0.5133606223809619}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 145 finished with value: 0.7506636630164862 and parameters: {'C': 0.4790738805325291}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 146 finished with value: 0.7506636691289152 and parameters: {'C': 0.6550632857999956}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 147 finished with value: 0.750663663294324 and parameters: {'C': 0.587214189108319}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 148 finished with value: 0.7506636644056747 and parameters: {'C': 0.49581749170609757}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 149 finished with value: 0.7506671573809833 and parameters: {'C': 0.008149946278934894}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 150 finished with value: 0.750663685799176 and parameters: {'C': 0.41409285032657095}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 151 finished with value: 0.750663663294324 and parameters: {'C': 0.45525812280961675}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 152 finished with value: 0.7506641153362288 and parameters: {'C': 0.11016869980749433}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 153 finished with value: 0.7506636599602717 and parameters: {'C': 0.6005358384944095}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 154 finished with value: 0.7506636674618892 and parameters: {'C': 0.6299481954709295}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 155 finished with value: 0.7506636752413441 and parameters: {'C': 0.564201548174335}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 156 finished with value: 0.7506636724629674 and parameters: {'C': 0.42711575405332325}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 157 finished with value: 0.7506636782975586 and parameters: {'C': 0.5143908306824095}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 158 finished with value: 0.7506636888553905 and parameters: {'C': 0.6961353190874258}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 159 finished with value: 0.7506636630164862 and parameters: {'C': 0.5988077180732603}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 160 finished with value: 0.7506636627386486 and parameters: {'C': 0.6151595200192368}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 161 finished with value: 0.7506636755191819 and parameters: {'C': 0.5422062663810531}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 162 finished with value: 0.7506636655170253 and parameters: {'C': 0.4440522258014667}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 163 finished with value: 0.7506636705181036 and parameters: {'C': 0.5804216795303256}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 164 finished with value: 0.7506636644056747 and parameters: {'C': 0.45844719848228427}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 165 finished with value: 0.7506636630164862 and parameters: {'C': 0.48993553115350136}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 166 finished with value: 0.750663664127837 and parameters: {'C': 0.6113074642744899}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 167 finished with value: 0.750663658015408 and parameters: {'C': 0.6394437968590153}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 168 finished with value: 0.7506636657948631 and parameters: {'C': 0.6462231946393375}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 169 finished with value: 0.7506636724629674 and parameters: {'C': 0.6659591071696066}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 170 finished with value: 0.7506636732964804 and parameters: {'C': 0.3966163835013186}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 171 finished with value: 0.750663664127837 and parameters: {'C': 0.5965237642705216}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 172 finished with value: 0.750663664127837 and parameters: {'C': 0.6277392453408562}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 173 finished with value: 0.7506636863548514 and parameters: {'C': 0.685632966975644}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 174 finished with value: 0.750663672740805 and parameters: {'C': 0.47056515108350666}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 175 finished with value: 0.7506636755191819 and parameters: {'C': 0.5724178663256971}. Best is trial 90 with value: 0.750663656348382.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 176 finished with value: 0.7506636560705443 and parameters: {'C': 0.6411388843078059}. Best is trial 176 with value: 0.7506636560705443.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 177 finished with value: 0.7506636557927066 and parameters: {'C': 0.6383182894093546}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 178 finished with value: 0.7506636560705443 and parameters: {'C': 0.6384824613729404}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 179 finished with value: 0.750663657181895 and parameters: {'C': 0.6419780517859657}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 180 finished with value: 0.7506636738521558 and parameters: {'C': 0.6626758517642359}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 181 finished with value: 0.7506636577375704 and parameters: {'C': 0.6390623142024274}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 182 finished with value: 0.7506636566262196 and parameters: {'C': 0.638831841612038}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 183 finished with value: 0.7506636946899817 and parameters: {'C': 0.7283722193976554}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 184 finished with value: 0.750663664127837 and parameters: {'C': 0.6450152646293749}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 185 finished with value: 0.7506636891332281 and parameters: {'C': 0.7035137860313574}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 186 finished with value: 0.7506636619051356 and parameters: {'C': 0.6332427371996543}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 187 finished with value: 0.7506636821872862 and parameters: {'C': 0.6828646375846611}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 188 finished with value: 0.7506636699624283 and parameters: {'C': 0.6561240927313985}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 189 finished with value: 0.7506636638499993 and parameters: {'C': 0.6251986341495566}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 190 finished with value: 0.7506636655170253 and parameters: {'C': 0.6160737034068344}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 191 finished with value: 0.7506636738521558 and parameters: {'C': 0.6724829611529751}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 192 finished with value: 0.7506636627386486 and parameters: {'C': 0.6442267437936198}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 193 finished with value: 0.7506636652391877 and parameters: {'C': 0.5971971001058258}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 194 finished with value: 0.750663658015408 and parameters: {'C': 0.6391798034467475}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 195 finished with value: 0.7506636591267587 and parameters: {'C': 0.6376327481370014}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 196 finished with value: 0.7506636616272979 and parameters: {'C': 0.6342622993460457}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 197 finished with value: 0.7506636819094484 and parameters: {'C': 0.6755038452372405}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 198 finished with value: 0.7506636688510775 and parameters: {'C': 0.6571488568858816}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 199 finished with value: 0.750663662460811 and parameters: {'C': 0.6346674883178324}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 200 finished with value: 0.7506636885775528 and parameters: {'C': 0.7090241831671463}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 201 finished with value: 0.750663664127837 and parameters: {'C': 0.6281063752728889}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 202 finished with value: 0.7506636577375704 and parameters: {'C': 0.6401658723124258}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 203 finished with value: 0.7506636644056747 and parameters: {'C': 0.6452092459872285}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 204 finished with value: 0.7506636807980978 and parameters: {'C': 0.6802988693767938}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 205 finished with value: 0.7506636699624283 and parameters: {'C': 0.6543424257755973}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 206 finished with value: 0.7506636644056747 and parameters: {'C': 0.6134000338353535}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 207 finished with value: 0.7506636735743181 and parameters: {'C': 0.6631404749870319}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 208 finished with value: 0.750663662460811 and parameters: {'C': 0.5867309717284518}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 209 finished with value: 0.7506636619051356 and parameters: {'C': 0.6343269269618714}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 210 finished with value: 0.7506636627386486 and parameters: {'C': 0.6227699195022606}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 211 finished with value: 0.750663662460811 and parameters: {'C': 0.6017904883510159}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 212 finished with value: 0.750663657181895 and parameters: {'C': 0.642250674023906}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 213 finished with value: 0.7506636810759354 and parameters: {'C': 0.6903775584010663}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 214 finished with value: 0.7506636638499993 and parameters: {'C': 0.6145950636005044}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 215 finished with value: 0.7506636680175645 and parameters: {'C': 0.6497195370597847}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 216 finished with value: 0.7506636669062138 and parameters: {'C': 0.5828976306421415}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 217 finished with value: 0.7506636741299935 and parameters: {'C': 0.6634297306929668}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 218 finished with value: 0.7506636635721616 and parameters: {'C': 0.606146827912063}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 219 finished with value: 0.750663658015408 and parameters: {'C': 0.6392541444154395}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 220 finished with value: 0.7506636605159471 and parameters: {'C': 0.6369320664108988}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 221 finished with value: 0.7506636560705443 and parameters: {'C': 0.6383677273058493}. Best is trial 177 with value: 0.7506636557927066.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 222 finished with value: 0.7506636555148689 and parameters: {'C': 0.6404117889793832}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 223 finished with value: 0.7506636566262196 and parameters: {'C': 0.6421452304432785}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 224 finished with value: 0.7506636616272979 and parameters: {'C': 0.6439575749118123}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 225 finished with value: 0.7506636769083702 and parameters: {'C': 0.6740429106478876}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 226 finished with value: 0.7506636869105268 and parameters: {'C': 0.6943577573570269}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 227 finished with value: 0.7506636616272979 and parameters: {'C': 0.6334981942105561}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 228 finished with value: 0.7506636730186427 and parameters: {'C': 0.6620707243311131}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 229 finished with value: 0.7506636682954022 and parameters: {'C': 0.6489484631322608}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 230 finished with value: 0.7506636682954022 and parameters: {'C': 0.6296226265228305}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 231 finished with value: 0.7506636630164862 and parameters: {'C': 0.6226472538766483}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 232 finished with value: 0.7506636705181036 and parameters: {'C': 0.6529422154023685}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 233 finished with value: 0.7506636741299935 and parameters: {'C': 0.6706023804359161}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 234 finished with value: 0.7506636560705443 and parameters: {'C': 0.6409158763740076}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 235 finished with value: 0.7506636655170253 and parameters: {'C': 0.6468083272377085}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 236 finished with value: 0.7506636807980978 and parameters: {'C': 0.6765677246549658}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 237 finished with value: 0.7506636630164862 and parameters: {'C': 0.6326248414657164}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 238 finished with value: 0.7506636627386486 and parameters: {'C': 0.616709033048482}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 239 finished with value: 0.7506636577375704 and parameters: {'C': 0.639063574653266}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 240 finished with value: 0.7506636730186427 and parameters: {'C': 0.6619125936013248}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 241 finished with value: 0.7506636688510775 and parameters: {'C': 0.6294068894709507}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 242 finished with value: 0.7506636569040573 and parameters: {'C': 0.6420899092437874}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 243 finished with value: 0.7506636699624283 and parameters: {'C': 0.6537157922130986}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 244 finished with value: 0.7506636796867471 and parameters: {'C': 0.6917203859068581}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 245 finished with value: 0.7506636660727007 and parameters: {'C': 0.6142255544780275}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 246 finished with value: 0.7506636738521558 and parameters: {'C': 0.6721141854138533}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 247 finished with value: 0.750663663294324 and parameters: {'C': 0.6447944821497942}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 248 finished with value: 0.7506636791310717 and parameters: {'C': 0.43407459602623566}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 249 finished with value: 0.7506636644056747 and parameters: {'C': 0.620699892201824}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 250 finished with value: 0.7506636602381095 and parameters: {'C': 0.5993899640851513}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 251 finished with value: 0.7506636596824341 and parameters: {'C': 0.6431284287301083}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 252 finished with value: 0.7506636655170253 and parameters: {'C': 0.6463206261725205}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 253 finished with value: 0.7506636744078311 and parameters: {'C': 0.6682107755944886}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 254 finished with value: 0.7506636821872862 and parameters: {'C': 0.6870990279053397}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 255 finished with value: 0.7506636560705443 and parameters: {'C': 0.6405235282013833}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 256 finished with value: 0.7506636877440398 and parameters: {'C': 0.7093283929712314}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 257 finished with value: 0.7506636649613501 and parameters: {'C': 0.6470180302756433}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 258 finished with value: 0.7506636666283761 and parameters: {'C': 0.6287761082200439}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 259 finished with value: 0.7506636741299935 and parameters: {'C': 0.6627111112273141}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 260 finished with value: 0.7506636577375704 and parameters: {'C': 0.6399465630300567}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 261 finished with value: 0.7506636791310717 and parameters: {'C': 0.9340944025162485}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 262 finished with value: 0.7506636669062138 and parameters: {'C': 0.6475222166749223}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 263 finished with value: 0.7506636671840514 and parameters: {'C': 0.6301604916633239}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 264 finished with value: 0.7506636794089093 and parameters: {'C': 0.6785809614759591}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 265 finished with value: 0.7506636627386486 and parameters: {'C': 0.615190632373025}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 266 finished with value: 0.7506636699624283 and parameters: {'C': 0.6602496444298934}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 267 finished with value: 0.7506636621829732 and parameters: {'C': 0.6367381285359035}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 268 finished with value: 0.7506636813537731 and parameters: {'C': 0.6897801554670872}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 269 finished with value: 0.7506636638499993 and parameters: {'C': 0.6200432839558406}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 270 finished with value: 0.7506636574597326 and parameters: {'C': 0.6415569273541365}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 271 finished with value: 0.7506636810759354 and parameters: {'C': 0.8177596841597583}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 272 finished with value: 0.7506636830207992 and parameters: {'C': 0.8427884391966507}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 273 finished with value: 0.7506636702402659 and parameters: {'C': 0.6544296755390178}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 274 finished with value: 0.7506636960791702 and parameters: {'C': 0.7332997081709036}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 275 finished with value: 0.7506636638499993 and parameters: {'C': 0.58854119729016}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 276 finished with value: 0.7506636735743181 and parameters: {'C': 0.6719836706931361}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 277 finished with value: 0.7506636635721616 and parameters: {'C': 0.6197403150642076}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 278 finished with value: 0.7506636619051356 and parameters: {'C': 0.6343451163926602}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 279 finished with value: 0.7506636738521558 and parameters: {'C': 0.6629661972633377}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 280 finished with value: 0.7506636621829732 and parameters: {'C': 0.6093346212605113}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 281 finished with value: 0.7506636888553905 and parameters: {'C': 0.7034579757405959}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 282 finished with value: 0.7506636610716225 and parameters: {'C': 0.6337385949658794}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 283 finished with value: 0.7506636694067529 and parameters: {'C': 0.6564600107373264}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 284 finished with value: 0.7506636832986369 and parameters: {'C': 0.6797080805576617}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 285 finished with value: 0.7506636705181036 and parameters: {'C': 0.5927090597954546}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 286 finished with value: 0.7506636627386486 and parameters: {'C': 0.6353092040113426}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 287 finished with value: 0.750663693578631 and parameters: {'C': 0.7800522314589637}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 288 finished with value: 0.7506636635721616 and parameters: {'C': 0.6147093986155986}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 289 finished with value: 0.7506636671840514 and parameters: {'C': 0.6488089652383693}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 290 finished with value: 0.750663671073779 and parameters: {'C': 0.6592724172946602}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 291 finished with value: 0.7506636794089093 and parameters: {'C': 0.6781274421293364}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 292 finished with value: 0.7506636846878253 and parameters: {'C': 0.41472503740512334}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 293 finished with value: 0.7506636655170253 and parameters: {'C': 0.6158325428248569}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 294 finished with value: 0.750663656348382 and parameters: {'C': 0.63824071825417}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 295 finished with value: 0.750663662460811 and parameters: {'C': 0.6346578492559692}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 296 finished with value: 0.7506636652391877 and parameters: {'C': 0.5974145440599138}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 297 finished with value: 0.7506636749635065 and parameters: {'C': 0.5756584058213877}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 298 finished with value: 0.7506636566262196 and parameters: {'C': 0.6402371810160943}. Best is trial 222 with value: 0.7506636555148689.
+sklearn.linear_model.LogisticRegression.fit: running accelerated version on CPU
+sklearn.linear_model.LogisticRegression.predict: running accelerated version on CPU
+sklearn.metrics.roc_auc_score: running accelerated version on CPU
+Trial 299 finished with value: 0.7506636896889035 and parameters: {'C': 0.7046014032502119}. Best is trial 222 with value: 0.7506636555148689.
