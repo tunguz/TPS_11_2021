@@ -56,24 +56,24 @@ def main():
     test_y = test_x['target']
     test_x = test_x[test_x.columns.difference(['target'])]
 
-    with LocalCUDACluster(CUDA_VISIBLE_DEVICES=['GPU-a5bb48d9-8574-a189-5dcf-39fe0abaef3e', 'GPU-3e39a349-3198-0ac9-0443-0e1394522a48', 'GPU-d3621334-6770-a11d-92a9-b1ccf5341afa', 'GPU-b5b5d840-898c-26f8-c05b-abe0640b381f']) as cluster:
+    with LocalCUDACluster(CUDA_VISIBLE_DEVICES=["GPU-a19c00c3-2832-fe38-1c43-c18db3e909da", "GPU-58b97c92-e879-49d3-85b5-1d9615f10873", "GPU-d21cfed4-2e1a-f313-839c-ea008aca027a", "GPU-e3b349d7-ac6c-77ab-3564-ed9d05d50bac"]) as cluster:
         client = Client(cluster)
         dtrain = xgb.dask.DaskDMatrix(client, train_x, train_y)
         dtest = xgb.dask.DaskDMatrix(client, test_x, test_y)
 
         logger = logging.getLogger()
         logger.setLevel(logging.INFO)  # Setup the root logger.
-        logger.addHandler(logging.FileHandler("optuna_xgb_output_300.log", mode="w"))
+        logger.addHandler(logging.FileHandler("optuna_xgb_output_2.log", mode="w"))
 
         optuna.logging.enable_propagation()  # Propagate logs to the root logger.
         optuna.logging.disable_default_handler()  # Stop showing logs in sys.stderr.
 
-        study = optuna.create_study(direction='maximize', storage="sqlite:///xgb_optuna_tests.db", study_name="nov_2021_test_300_5")
+        study = optuna.create_study(direction='maximize', storage="sqlite:///xgb_optuna_tests.db", study_name="nov_2021_test_2")
         logger.info("Start optimization.")
-        study.optimize(lambda trial: objective(client, dtrain, dtest, test_y, trial), n_trials=300)
+        study.optimize(lambda trial: objective(client, dtrain, dtest, test_y, trial), n_trials=2)
         
     df = study.trials_dataframe(attrs=('number', 'value', 'params', 'state'))
-    df.to_csv('optuna_xgb_output_300.csv', index=False)
+    df.to_csv('optuna_xgb_output_2.csv', index=False)
 
 if __name__ == "__main__":
     main()
